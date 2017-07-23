@@ -7,6 +7,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using ToDoList.Web.Models;
+using ToDoList.Service.IdentityClasses;
 
 namespace ToDoList.Web.Controllers
 {
